@@ -1,5 +1,5 @@
 # week 4
 
-homework: make game with this
+homework: add high score table to existing or new game
 
 bonus: add names to high score (not mandatory)
