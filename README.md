@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# week 4
 
-DO NOT LEAVE IT LIKE THIS!!!
+homework: make game with this
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+bonus: add names to high score (not mandatory)
